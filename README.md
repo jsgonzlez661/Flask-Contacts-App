@@ -1,6 +1,5 @@
 # Flask-Contacts-App
-Testing sqlalchemy ORM with tkinter, task application 
+Flask and Msql web application
 
 ## Screenshots
-![Sin titulo](https://github.com/jsgonzlez661/tkinter_sqlalchemy/blob/master/screenshots/screenshots_1.png)
-
+![Sin titulo](https://github.com/jsgonzlez661/Flask-Contacts-App/blob/master/screenshots/screenshots_1.png)
